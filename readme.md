@@ -1,1 +1,1 @@
-Resolved conflict in readme.md (master + B-branch) 
+Final resolved readme.md (master + B-branch + A-branch) 
