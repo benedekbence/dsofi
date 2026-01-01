@@ -1,2 +1,1 @@
-Initial README 
-Modified README by User B on master 
+Resolved conflict in readme.md (master + B-branch) 
