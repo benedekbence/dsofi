@@ -1,3 +1,1 @@
-Initial README 
-Base content from A-branch 
-B's modification on A-branch 
+Resolved conflict in readme.md (A-branch + A-branch-sub) 
